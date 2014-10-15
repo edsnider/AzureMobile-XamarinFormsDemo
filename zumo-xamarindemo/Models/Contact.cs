@@ -1,7 +1,6 @@
 ﻿using System;
 using Microsoft.WindowsAzure.MobileServices;
 
-
 namespace zumoxamarindemo
 {
 	[DataTable("Contacts")]
